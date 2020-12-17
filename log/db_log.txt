@@ -1,0 +1,164 @@
+Fault: 25-11-2020 17:15:41 - Ошибка в SQL запросе: SELECT teachers.COUNT(*) as count FROM teachers  WHERE parent_id='1'    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM teachers  WHERE parent_id='1'' at line 1
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 17:16:43 - Ошибка в SQL запросе: SELECT teachers.COUNT(*) as count FROM teachers  WHERE parent_id='1'    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM teachers  WHERE parent_id='1'' at line 1
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 17:55:12 - Ошибка в SQL запросе: SELECT teachers.COUNT(*) as count FROM teachers  WHERE parent_id='1'    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) as count FROM teachers  WHERE parent_id='1'' at line 1
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 18:36:55 - Ошибка в SQL запросе: SHOW COLUMNS FROM teachers - 1146 Table 'im.teachers' doesn't exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 21:25:44 - Ошибка в SQL запросе: SELECT goods.*,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.parent_id as TABLEfiltersTABLE_parent_id FROM goods LEFT JOIN filters f ON goods.students=Array.id LEFT JOIN filters ON f.parent_id=Array.id WHERE goods.id IN ('1','2')  ORDER BY goods.RAND() ASC  - 1054 Unknown column 'goods.students' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 21:28:23 - Ошибка в SQL запросе: SELECT goods.*,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.parent_id as TABLEfiltersTABLE_parent_id FROM goods LEFT JOIN filters f ON goods.students=goods.id LEFT JOIN filters ON f.parent_id=goods.id WHERE goods.id IN ('1','2')  ORDER BY goods.RAND() ASC  - 1054 Unknown column 'goods.students' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 21:29:47 - Ошибка в SQL запросе: SELECT goods.*,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.parent_id as TABLEfiltersTABLE_parent_id FROM goods LEFT JOIN filters f ON goods.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE goods.id IN ('1','2')  ORDER BY goods.RAND() ASC  - 1054 Unknown column 'goods.students' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 21:32:29 - Ошибка в SQL запросе: SELECT goods.*,goods_filters.teachers as TABLEgoods_filtersTABLE_teachers,goods_filters.students as TABLEgoods_filtersTABLE_students,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.parent_id as TABLEfiltersTABLE_parent_id FROM goods LEFT JOIN goods_filters ON goods.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE goods.id IN ('1','2')  ORDER BY goods.RAND() ASC  - 1305 FUNCTION goods.RAND does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 21:52:55 - Ошибка в SQL запросе: SHOW COLUMNS FROM teachers - 1146 Table 'im.teachers' doesn't exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 25-11-2020 21:53:36 - Ошибка в SQL запросе: SHOW COLUMNS FROM teachers - 1146 Table 'im.teachers' doesn't exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 26-11-2020 21:52:52 - Ошибка в SQL запросе: INSERT INTO goods_filters (goods_id,filters_id) VALUES ('6',NULL) - 1048 Column 'filters_id' cannot be null
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 26-11-2020 21:53:41 - Ошибка в SQL запросе: INSERT INTO goods_filters (goods_id,filters_id) VALUES ('7',NULL) - 1048 Column 'filters_id' cannot be null
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 26-11-2020 21:59:41 - Ошибка в SQL запросе: INSERT INTO goods_filters (goods_id,filters_id) VALUES ('9',NULL) - 1048 Column 'filters_id' cannot be null
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 28-11-2020 18:11:58 - Ошибка в SQL запросе: SELECT COUNT(*) as count FROM filters  WHERE parent_id IS NULL OR parent_id = 0   - 2006 MySQL server has gone away
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 28-11-2020 18:49:19 - Ошибка в SQL запросе: SELECT COUNT(*) as count FROM filters  WHERE parent_id IS NULL OR parent_id = 0   - 2006 MySQL server has gone away
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 28-11-2020 20:46:50 - Ошибка в SQL запросе: SELECT goods_filters.filters_id FROM goods_filters  WHERE goods_filters.0='goods_19'    - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 9:33:41 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_21'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 9:52:11 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_23'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 9:57:42 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 9:58:08 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 9:58:38 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_19'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 10:00:55 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_20'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 10:01:37 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_17'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 10:04:06 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_18'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 10:04:22 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_1'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 10:04:32 - Ошибка в SQL запросе: DELETE goods_filters FROM goods_filters  WHERE goods_filters.0='goods_22'  - 1054 Unknown column 'goods_filters.0' in 'where clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 11:04:11 - Ошибка в SQL запросе: DELETE filters FROM filters  WHERE filters.id='9'  - 1451 Cannot delete or update a parent row: a foreign key constraint fails (`im`.`filters`, CONSTRAINT `filters_filters_id_fk` FOREIGN KEY (`parent_id`) REFERENCES `filters` (`id`))
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 11:05:48 - Ошибка в SQL запросе: DELETE filters FROM filters  WHERE filters.id='9'  - 1451 Cannot delete or update a parent row: a foreign key constraint fails (`im`.`filters`, CONSTRAINT `filters_filters_id_fk` FOREIGN KEY (`parent_id`) REFERENCES `filters` (`id`))
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 11:06:07 - Ошибка в SQL запросе: DELETE filters FROM filters  WHERE filters.id='9'  - 1451 Cannot delete or update a parent row: a foreign key constraint fails (`im`.`filters`, CONSTRAINT `filters_filters_id_fk` FOREIGN KEY (`parent_id`) REFERENCES `filters` (`id`))
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 11:06:26 - Ошибка в SQL запросе: DELETE filters FROM filters  WHERE filters.id='9'  - 1451 Cannot delete or update a parent row: a foreign key constraint fails (`im`.`filters`, CONSTRAINT `filters_filters_id_fk` FOREIGN KEY (`parent_id`) REFERENCES `filters` (`id`))
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 11:07:30 - Ошибка в SQL запросе: DELETE filters FROM filters  WHERE filters.id='9'  - 1451 Cannot delete or update a parent row: a foreign key constraint fails (`im`.`filters`, CONSTRAINT `filters_filters_id_fk` FOREIGN KEY (`parent_id`) REFERENCES `filters` (`id`))
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 29-11-2020 12:02:33 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 07-12-2020 9:47:12 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 07-12-2020 9:47:25 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 07-12-2020 9:48:51 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 07-12-2020 9:49:03 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 11-12-2020 19:26:10 - Ошибка в SQL запросе: INSERT INTO goods_filters (goods_id,filters_id) VALUES ('27',''),('27',''),('27',''),('27',''),('27','') - 1366 Incorrect integer value: '' for column 'filters_id' at row 1
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 11-12-2020 19:33:08 - Ошибка в SQL запросе: INSERT INTO goods_filters (goods_id,filters_id) VALUES ('27','') - 1366 Incorrect integer value: '' for column 'filters_id' at row 1
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 16-12-2020 22:57:18 - Ошибка в SQL запросе: SELECT g.*,goods_filters.goods_id as TABLEgoods_filtersTABLE_goods_id,goods_filters.filters_id as TABLEgoods_filtersTABLE_filters_id,goods_filters.goods_value as TABLEgoods_filtersTABLE_goods_value,f.name as TABLEfTABLE_student_name,f.content as TABLEfTABLE_content,f.id as TABLEfTABLE_id,filters.id as TABLEfiltersTABLE_id,filters.name as TABLEfiltersTABLE_name,filters.content as TABLEfiltersTABLE_content,filters.visible as TABLEfiltersTABLE_visible,filters.parent_id as TABLEfiltersTABLE_parent_id,filters.menu_position as TABLEfiltersTABLE_menu_position FROM goods g LEFT JOIN goods_filters ON g.id=goods_filters.teachers LEFT JOIN filters f ON goods_filters.students=f.id LEFT JOIN filters ON f.parent_id=filters.id WHERE g.id IN ('1','2')    - 1054 Unknown column 'goods_filters.teachers' in 'on clause'
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 17-12-2020 0:17:19 - Ошибка в SQL запросе: SHOW COLUMNS FROM filters - 2006 MySQL server has gone away
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+
+Fault: 17-12-2020 0:22:08 - Ошибка в SQL запросе: SHOW COLUMNS FROM filters - 2006 MySQL server has gone away
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\model\BaseModel.php
+In line 36
+

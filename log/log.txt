@@ -1,0 +1,3912 @@
+Fault: 22-11-2020 19:13:01 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 22-11-2020 19:13:01 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 9:44:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 9:44:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 9:44:15 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 9:44:15 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 9:44:20 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 9:44:20 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 9:57:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 9:57:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 9:57:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 9:57:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 9:57:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 9:57:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 9:57:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 9:57:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 10:05:30 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 10:05:30 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 10:05:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 10:05:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 10:20:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 10:20:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 10:20:57 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 10:20:57 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 10:38:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 10:38:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 10:38:25 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 10:38:25 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 48
+
+Fault: 23-11-2020 10:42:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 10:42:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:14:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:14:10 - Class core\user\controller\CoreController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:14:10 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:14:10 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:14:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:14:10 - Class core\user\controller\CoreController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:15:06 - Не верное имя файла для подключения - core/user/controller/CoreController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:15:06 - Class core\user\controller\CoreController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:15:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:15:07 - Class core\user\controller\CoreController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:15:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:15:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:21:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:21:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:23:11 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:23:11 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:23:12 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:23:12 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:23:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:23:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 11:23:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 11:23:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 12:00:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 12:00:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 12:03:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 12:03:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 12:03:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 12:03:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 12:04:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 12:04:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 12:04:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 12:04:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 12:05:35 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 12:05:35 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 12:08:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 12:08:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:01:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:01:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:04:05 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:04:05 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:04:33 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:04:33 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:05:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:05:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:05:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:05:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:06:12 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:06:12 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:06:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:06:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:09:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:09:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:09:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:09:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:10:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:10:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:10:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:10:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 14:12:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 14:12:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:17:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:17:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:19:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:19:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:24:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:24:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:27:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:27:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:29:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:29:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:31:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:31:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:31:52 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:31:52 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:50:30 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:50:30 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:50:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:50:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:50:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:50:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:50:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:50:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:55:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:55:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 15:55:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 15:55:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 20:52:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 20:52:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 21:07:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 21:07:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 21:18:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 21:18:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 21:30:42 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 21:30:42 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 21:31:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 21:31:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 22:03:17 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 22:03:17 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 22:17:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 22:17:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 22:27:23 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 22:27:23 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 22:37:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 22:37:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 22:37:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 22:37:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 22:38:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 22:38:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 23-11-2020 22:45:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 23-11-2020 22:45:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:15:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:15:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:15:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:15:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:01 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:01 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:04 - Отсутствует шаблон - core/admin/view/edit
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 102
+
+Fault: 25-11-2020 17:16:15 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:15 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:16:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:16:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:55:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:55:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 17:55:20 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 17:55:20 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 21:53:25 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 21:53:25 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 21:53:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 21:53:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 21:53:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 21:53:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 21:53:45 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 21:53:45 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 25-11-2020 21:53:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 25-11-2020 21:53:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 11:12:20 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 11:12:20 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 11:51:52 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 11:51:52 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 11:51:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 11:51:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 11:57:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 11:57:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 14:38:01 - Не найден шаблон E:/OpenServer/OSPanel/domains/localhost/core/admin/view/include/form_templates/checkboxlist.php
+fileE:\OpenServer\OSPanel\domains\localhost\core\admin\view\add.php
+In line 48
+
+Fault: 26-11-2020 14:38:20 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 14:38:20 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 14:38:21 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 14:38:21 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 14:38:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 14:38:22 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 14:38:22 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 14:38:22 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 14:53:45 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 14:53:45 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 14:53:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 14:53:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:01 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:01 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:01 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:01 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:02 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:02 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:02 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:02 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:05 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:05 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:07 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:07 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:11 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:11 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:23:11 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 18:23:11 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 18:31:02 - Не найден шаблон E:/OpenServer/OSPanel/domains/localhost/core/admin/view/include/form_templates/checkboxlist.php
+fileE:\OpenServer\OSPanel\domains\localhost\core\admin\view\add.php
+In line 48
+
+Fault: 26-11-2020 20:33:23 - Не найден шаблон E:/OpenServer/OSPanel/domains/localhost/core/admin/view/include/form_templates/checkboxlist.php
+fileE:\OpenServer\OSPanel\domains\localhost\core\admin\view\add.php
+In line 48
+
+Fault: 26-11-2020 20:37:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 20:37:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 20:40:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 20:40:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 20:42:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 20:42:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:01:13 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:01:13 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:04:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:04:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:04:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:04:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:10:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:10:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:11:35 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:11:35 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:13:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:13:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:14:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:14:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:14:59 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:14:59 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:18:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:18:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:21:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:21:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:21:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:21:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:38:22 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:38:22 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:50:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:50:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:52:18 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:52:18 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:53:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:53:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:56:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:56:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:56:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:56:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:56:33 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:56:33 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:56:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:56:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 21:56:48 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 21:56:48 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 22:00:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 22:00:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 22:01:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 22:01:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 22:01:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 22:01:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 22:03:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 22:03:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 22:03:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 22:03:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 22:05:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 22:05:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 26-11-2020 22:05:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 26-11-2020 22:05:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 14:55:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 14:55:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:04:11 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:04:11 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:04:13 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:04:13 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:04:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:04:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:04:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:04:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:06:26 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:06:26 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:06:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:06:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:09:48 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:09:48 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:13:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:13:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:13:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:13:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:15:56 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:15:56 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:18:49 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:18:49 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:18:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:18:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:19:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:19:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:21:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:21:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 15:22:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 15:22:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:00:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:00:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:00:12 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:00:12 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:21:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:21:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:28:30 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:28:30 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:44:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:44:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:45:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:45:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:54:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:54:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:57:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:57:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:58:11 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:58:11 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:58:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:58:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 18:59:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 18:59:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 19:21:33 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 19:21:33 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 19:34:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 19:34:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 19:36:59 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 19:36:59 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 19:46:17 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 19:46:17 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 19:47:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 19:47:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 19:48:17 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 19:48:17 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 19:49:17 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 19:49:17 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:36:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:36:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:36:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:36:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:36:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:36:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:48:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:48:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:49:13 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:49:13 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:49:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:49:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:52:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:52:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:53:26 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:53:26 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:58:10 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:58:10 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:58:11 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:58:11 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:58:14 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:58:14 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:58:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:58:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:58:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:58:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:58:28 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:58:28 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 20:58:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 20:58:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 21:07:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 21:07:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 21:20:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 21:20:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 28-11-2020 21:20:57 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 28-11-2020 21:20:57 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:27:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:27:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:28:18 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:28:18 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:28:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:28:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:33:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:33:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:36:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:36:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:36:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:36:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:18 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:18 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:22 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:22 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:26 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:26 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:34 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:34 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:34 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:34 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:37:45 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:37:45 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:45:26 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:45:26 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:52:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:52:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:53:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:53:21 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:53:23 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:53:23 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:57:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:57:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:57:38 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:57:38 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:57:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:57:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:58:22 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:58:22 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:58:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:58:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:58:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:58:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:58:59 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:58:59 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 9:59:13 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 9:59:13 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:00:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:00:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:00:49 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:00:49 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:01:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:01:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:01:17 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:01:17 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:01:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:01:21 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:01:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:01:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:03:59 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:03:59 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:05 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:05 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:14 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:14 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:17 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:17 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:45 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:45 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 10:04:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 10:04:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:20 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:20 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:22 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:22 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:46 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:46 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:02:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:02:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:03:13 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:03:13 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:03:15 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:03:15 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:03:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:03:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:03:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:03:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:03:49 - Не верное имя файла для подключения - core/plugins/shop/DeleteController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:03:49 - Class core\plugins\shop\DeleteController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:04:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:04:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:05:49 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:05:49 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:05:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:05:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:05:52 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:05:52 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:05:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:05:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:06:00 - Не верное имя файла для подключения - core/plugins/shop/DeleteController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:06:00 - Class core\plugins\shop\DeleteController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:06:05 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:06:05 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:06:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:06:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:06:29 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:06:29 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:06:33 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:06:33 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:07:03 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:07:03 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:07:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:07:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:07:13 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:07:13 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:07:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:07:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:07:25 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:07:25 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:19:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:19:21 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:19:23 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:19:23 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:19:29 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:19:29 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:20:01 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:20:01 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:20:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:20:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:20:06 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:20:06 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:20:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:20:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:20:21 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:20:21 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:20:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:20:21 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:21:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:21:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:21:08 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:21:08 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:21:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:21:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:21:09 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:21:09 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:21:09 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:21:09 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:25:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:25:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:26:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:26:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:26:35 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:26:35 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:26:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:26:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:29:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:29:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:29:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:29:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:29:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:29:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:29:59 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:29:59 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:33:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:33:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:33:01 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:33:01 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:33:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:33:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:38:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:38:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:38:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:38:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 11:42:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 11:42:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:01:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:01:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:01:33 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:01:33 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:02:10 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:02:10 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:02:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:02:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:02:18 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:02:18 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:02:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:02:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:02:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:02:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:02:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:02:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:04:26 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:04:26 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:04:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:04:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:04:28 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:04:28 - Class core\user\controller\UserfilesController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:12:29 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:12:29 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:12:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:12:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:14:14 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:14:14 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:14:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:14:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:14:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:14:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:14:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:14:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:14:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:14:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:14:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:14:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:14:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:14:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:30:57 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:30:57 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:31:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:31:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:48:13 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:48:13 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:48:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:48:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:48:42 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:48:42 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:49:14 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:49:14 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:49:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:49:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:53:52 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:53:52 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:53:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:53:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:54:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:54:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:54:08 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:54:08 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:54:11 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:54:11 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:55:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:55:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:57:08 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:57:08 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:57:12 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:57:12 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:57:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:57:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 12:58:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 12:58:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:06:56 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:06:56 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:07:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:07:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:07:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:07:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:07:15 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:07:15 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:07:23 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:07:23 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:07:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:07:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:07:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:07:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:15:14 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:15:14 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:15:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:15:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:15:56 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:15:56 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:16:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:16:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:18:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:18:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:19:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:19:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:19:52 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:19:52 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:20:30 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:20:30 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:21:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:21:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:21:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:21:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:21:35 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:21:35 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:21:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:21:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 13:22:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 37
+
+Fault: 29-11-2020 13:22:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 17:13:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 17:13:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 18:21:52 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 18:21:52 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 18:41:30 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 18:41:30 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 18:51:23 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 18:51:23 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 18:52:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 18:52:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 18:55:15 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 18:55:15 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 19:03:08 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 19:03:08 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 20:08:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 20:08:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 20:09:48 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 20:09:48 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 20:12:12 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 20:12:12 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 20:12:43 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 20:12:43 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 29-11-2020 20:15:35 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 29-11-2020 20:15:35 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 11:49:05 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 11:49:05 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 11:49:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 11:49:21 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 11:49:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 11:49:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 11:50:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 11:50:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 11:50:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 11:50:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 11:50:49 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 11:50:49 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 11:54:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 11:54:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:31:07 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:31:07 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:31:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:31:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:33:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:33:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:45:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:45:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:46:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:46:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:47:03 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:47:03 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:47:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:47:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:47:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:47:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:47:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:47:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:48:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:48:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:48:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:48:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:48:33 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:48:33 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:48:36 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:48:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:48:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:48:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:48:39 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:48:39 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:48:59 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:48:59 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:49:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:49:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:50:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:50:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:50:05 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:50:05 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:50:42 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:50:42 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:50:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:50:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:51:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:51:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:51:10 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:51:10 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:51:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:51:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:52:48 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:52:48 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:52:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:52:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:53:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:53:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:53:29 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:53:29 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:53:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:53:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:53:42 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:53:42 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:53:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:53:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:57:50 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:57:50 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:57:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:57:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 14:58:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 14:58:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:22 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:22 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:23 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:23 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:24 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:24 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:25 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:25 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:41 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:41 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:43 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:43 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:46 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:46 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:48 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:48 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:00:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:00:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 49
+
+Fault: 30-11-2020 15:13:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:13:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 15:13:16 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:13:16 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 15:30:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:30:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 15:30:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:30:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 15:30:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 15:30:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:16:14 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:16:14 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:16:26 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:16:26 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:16:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:16:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:16:29 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:16:29 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:40:05 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:40:05 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:49:44 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:49:44 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:49:47 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:49:47 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:49:54 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:49:54 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:50:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:50:21 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 18:50:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 18:50:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 19:21:22 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 19:21:22 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 19:21:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 19:21:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 19:21:34 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 19:21:34 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 19:28:09 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 19:28:09 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 19:28:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 19:28:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:23:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:23:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:23:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:23:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:25:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:25:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:25:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:25:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:27:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:27:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:28:20 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:28:20 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:31:31 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:31:31 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:31:45 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:31:45 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:32:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:32:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:32:51 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:32:51 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:32:53 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:32:53 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:32:55 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:32:55 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:33:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:33:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:33:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:33:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:33:03 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:33:03 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:40:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:40:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:40:04 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:40:04 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:40:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:40:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:40:08 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:40:08 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:49:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:49:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:49:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:49:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 20:51:37 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 20:51:37 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:01:27 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:01:27 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:03:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:03:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:06:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:06:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:09:58 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:09:58 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:19:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:19:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:22:21 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:22:21 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:22:28 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:22:28 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 30-11-2020 21:22:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 30-11-2020 21:22:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:14:40 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:14:40 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:14:42 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:14:42 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:14:57 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:14:57 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:15:00 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:15:00 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:33:32 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:33:32 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:34:02 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:34:02 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:35:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:35:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:37:12 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:37:12 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:40:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:40:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 03-12-2020 9:40:42 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 03-12-2020 9:40:42 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 06-12-2020 19:55:35 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 06-12-2020 19:55:36 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 06-12-2020 20:02:06 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 06-12-2020 20:02:06 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 06-12-2020 20:03:19 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 06-12-2020 20:03:19 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 06-12-2020 20:05:57 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 06-12-2020 20:05:57 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 06-12-2020 20:25:48 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 06-12-2020 20:25:48 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 06-12-2020 20:26:38 - Не верное имя файла для подключения - core/user/controller/AdminimgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 06-12-2020 20:26:38 - Class core\user\controller\AdminimgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 06-12-2020 20:32:56 - Не верное имя файла для подключения - core/admin/controller/ImgController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 06-12-2020 20:32:56 - Class core\admin\controller\ImgController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 16-12-2020 21:58:25 - Не верное имя файла для подключения - core/user/controller/CoreController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 16-12-2020 21:58:25 - Class core\user\controller\CoreController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 16-12-2020 23:59:12 - Не верное имя файла для подключения - core/plugins/shop/EditController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 16-12-2020 23:59:12 - Class core\plugins\shop\EditController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 16-12-2020 23:59:27 - Не верное имя файла для подключения - core/plugins/shop/EditController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 16-12-2020 23:59:27 - Class core\plugins\shop\EditController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 16-12-2020 23:59:52 - Не верное имя файла для подключения - core/plugins/shop/EditController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 16-12-2020 23:59:52 - Class core\plugins\shop\EditController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 17-12-2020 0:01:22 - Не верное имя файла для подключения - core/plugins/shop/EditController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 17-12-2020 0:01:22 - Class core\plugins\shop\EditController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
+Fault: 17-12-2020 0:05:22 - Не верное имя файла для подключения - core/plugins/shop/EditController
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\settings\internal_settings.php
+In line 39
+
+Fault: 17-12-2020 0:05:22 - Class core\plugins\shop\EditController does not exist
+fileE:\OpenServer\OSPanel\domains\localhost\core\base\controller\BaseController.php
+In line 50
+
