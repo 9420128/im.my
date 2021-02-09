@@ -1,4 +1,4 @@
-<form class="vg-wrap vg-element vg-ninteen-of-twenty" method="post" action="<?=$this->adminPath . $this->action?>"
+<form class="vg-wrap vg-element vg-ninteen-of-twenty" method="post" action="<?=$this->adminPath . $this->action?>" id="main-form"
       enctype="multipart/form-data">
     <div class="vg-wrap vg-element vg-full">
         <div class="vg-wrap vg-element vg-full vg-firm-background-color4 vg-box-shadow">
@@ -9,7 +9,7 @@
 
                 <? if(!$this->noDelete && $this->data):?>
                 <div class="vg-element vg-padding-in-px">
-                    <a href=""
+                    <a href="<?=$this->adminPath . 'delete/' . $this->table . '/' . $this->data[$this->columns['id_row']]?>"
                        class="vg-text vg-firm-color1 vg-firm-background-color4 vg-input vg-button vg-center vg_delete">
                         <span>Удалить</span>
                     </a>
@@ -22,10 +22,10 @@
 <!--45-->
 
     <? if($this->data):?>
-    <input type="hidden" name="<?= $this->columns['id_row']?>" value="<?= $this->data[$this->columns['id_row']]?>">
+    <input type="hidden" name="<?= $this->columns['id_row']?>" value="<?=$this->data[$this->columns['id_row']]?>">
     <? endif;?>
 
-    <input type="hidden" name="table" value="<?= $this->table?>">
+    <input type="hidden" name="table" value="<?=$this->table?>">
 
     <?php
 
@@ -84,7 +84,7 @@
                            value="Сохранить">
                 </div>
                 <div class="vg-element vg-padding-in-px">
-                    <a href="/admin/shop/delete/table/shop_products/id_row/id/id/92"
+                    <a href="<?=$this->adminPath . 'delete/' . $this->table . '/' . $this->data[$this->columns['id_row']]?>"
                        class="vg-text vg-firm-color1 vg-firm-background-color4 vg-input vg-button vg-center vg_delete">
                         <span>Удалить</span>
                     </a>

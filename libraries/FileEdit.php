@@ -9,11 +9,15 @@ class FileEdit
 
     protected $imgArr = [];
     protected $directory;
+    protected $uniqueFile = true;
 // 55, 56
-    public function addFile($directory = false){
+    public function addFile($directory = ''){
 
-        if(!$directory) $this->directory = $_SERVER['DOCUMENT_ROOT'] . PATH . UPLOAD_DIR;
-        else $this->directory = $directory;
+        $directory = trim($directory, ' /');
+
+        $directory .= '/';
+
+        $this->setDirectory($directory);
 
         foreach ($_FILES as $key => $file){
 
@@ -33,7 +37,7 @@ class FileEdit
 
                         $res_name = $this->createFile($file_arr);
 
-                        if ($res_name) $this->imgArr[$key][] = $res_name;
+                        if ($res_name) $this->imgArr[$key][$i] = $directory . $res_name;
                     }
 
                 }
@@ -42,7 +46,7 @@ class FileEdit
                 if ($file['name']){
                     $res_name = $this->createFile($file);
 
-                    if ($res_name) $this->imgArr[$key] = $res_name;
+                    if ($res_name) $this->imgArr[$key] = $directory . $res_name;
                 }
             }
         }
@@ -82,12 +86,25 @@ class FileEdit
     // 56
     protected function checkFile($fileName, $ext, $fileLastName = ''){
 
-        if(!file_exists($this->directory . $fileName . $fileLastName . '.' . $ext)){
+        if(!file_exists($this->directory . $fileName . $fileLastName . '.' . $ext) || !$this->uniqueFile){
             return $fileName . $fileLastName . '.' . $ext;
         }
 
         return $this->checkFile($fileName, $ext, '_' . hash('crc32', time() . mt_rand(1, 1000)));
 
+    }
+    // 107
+    public function setUniqueFile($value){
+
+        $this->uniqueFile = $value ? true : false;
+
+    }
+
+    public function setDirectory($directory){
+
+        $this->directory = $_SERVER['DOCUMENT_ROOT'] . PATH . UPLOAD_DIR . $directory;
+
+        if(!file_exists($this->directory)) mkdir($this->directory, 0777, true);
     }
 
     public function getFiles(){

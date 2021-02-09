@@ -73,9 +73,12 @@ function createFile(){
 
                             let elId = fileStore[fileName].push(this.files[i]) - 1
 
-                            container[i].setAttribute(`data_deleteFileId-${attributeName}`, elId)
+                            container[i].setAttribute(`data-deletefileid-${attributeName}`, elId)
 
-                            shovImage(this.files[i], container[i])
+                            shovImage(this.files[i], container[i], function () {
+
+                                parentContainer.sortable({excludedElements: 'label .empty_container'})
+                            })
 
                             deleteNevFiles(elId, fileName, attributeName, container[i])
 
@@ -106,11 +109,15 @@ function createFile(){
 
             form.onsubmit = function (e) {
 
+                createJsSortable(form)
+
                 if(!isEmpty(fileStore)){
 
                     e.preventDefault()
 
                     let formData = new FormData(this)
+
+                    console.log(formData)
 
                     for(let i in fileStore){
 
@@ -168,7 +175,7 @@ function createFile(){
 
         }
 
-        function shovImage(item, container) {
+        function shovImage(item, container, calcback) {
 
             let reader = new FileReader()
 
@@ -183,6 +190,8 @@ function createFile(){
                 container.querySelector('img').setAttribute('src', e.target.result)
 
                 container.classList.remove('empty_container')
+
+                calcback && calcback()
             }
         }
 
@@ -415,6 +424,35 @@ let searchResultHover = (() => {
 
 searchResultHover()
 
+//105
+search()
+
+function search(){
+
+    let searchInput = document.querySelector('input[name=search]')
+
+    if(searchInput){
+
+        searchInput.oninput = () => {
+
+            if(searchInput.value.length > 1){
+
+                Ajax(
+                    {
+                        data:{
+                            data:searchInput.value,
+                            table: document.querySelector('input[name="search_table"]').value,
+                            ajax: 'search'
+                        }
+                    }
+                ).then(res => {
+                    console.log(res)
+                })
+            }
+        }
+    }
+}
+
 // 102
 // Используем
 
@@ -435,7 +473,68 @@ if(galleries.length){
     })
 }
 
-document.querySelector('.vg-rows > div').sortable()
+// document.querySelector('.vg-rows > div').sortable()
+    // 103
+function createJsSortable(form) {
+
+    if(form){
+
+        let sortable = form.querySelectorAll('input[type=file][multiple]')
+
+        if(sortable.length){
+
+            sortable.forEach(item =>{
+
+                let container = item.closest('.gallery_container')
+
+                let name = item.getAttribute('name')
+
+                if(name && container){
+
+                    name = name.replace(/\[\]/g, '')
+
+                    let inputSorting = form.querySelector(`input[name="js-sorting[${name}]"]`)
+
+                    if(!inputSorting){
+
+                        inputSorting = document.createElement('input')
+
+                        inputSorting.name = `js-sorting[${name}]`
+
+                        form.append(inputSorting)
+
+                    }
+
+                    let res = []
+
+                    for(let i in container.children){
+
+                        if(container.children.hasOwnProperty(i)){
+
+                            if(!container.children[i].matches('label') && !container.children[i].matches('.empty_container')){
+
+                                if(container.children[i].tagName === 'A'){
+
+                                    res.push(container.children[i].querySelector('img').getAttribute('src'))
+
+                                }else{
+
+                                    res.push(container.children[i].getAttribute(`data-deletefileid-${name}`))
+                                }
+                            }
+                        }
+                    }
+
+                    // console.log(res)
+
+                    inputSorting.value = JSON.stringify(res)
+                }
+            })
+        }
+
+    }
+
+}
 
 
 
